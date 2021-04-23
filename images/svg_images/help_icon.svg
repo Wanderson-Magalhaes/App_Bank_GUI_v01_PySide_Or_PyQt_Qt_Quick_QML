@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="help_icon.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 210"
+   height="210mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-62"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-45"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-64"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-5"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-622"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-74"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-48"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="510.1207"
+     inkscape:cx="281.68563"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.140727"
+       d="m 104.99735,3.0666479 c 28.10572,0 53.55345,11.4090391 71.9734,29.8562261 18.41997,18.447187 29.81216,43.927195 29.81216,72.074466 0,28.14727 -11.39219,53.63261 -29.81216,72.07979 -18.41995,18.44719 -43.86768,29.85623 -71.9734,29.85623 -28.105729,0 -53.548135,-11.40904 -71.9681,-29.85623 C 14.609289,158.62995 3.2170872,133.14461 3.2170872,104.99734 3.2170872,76.850068 14.609289,51.370061 33.02925,32.922874 51.449215,14.475687 76.891621,3.0666479 104.99735,3.0666479 Z M 104.67307,130.51462 c 4.7844,0 9.11695,1.94321 12.2534,5.08429 3.13644,3.14108 5.07678,7.48003 5.07678,12.27151 0,4.79147 -1.94034,9.13043 -5.07678,12.26617 -3.13645,3.14109 -7.469,5.0843 -12.2534,5.0843 -4.784404,0 -9.116949,-1.94321 -12.253395,-5.0843 -3.136441,-3.13574 -5.076789,-7.4747 -5.076789,-12.26617 0,-4.79148 1.940348,-9.13043 5.076789,-12.27151 3.136446,-3.14108 7.468991,-5.08429 12.253395,-5.08429 z m -6.299468,-3.40195 c -0.05314,-1.7409 -0.07442,-3.0559 -0.07442,-3.92901 0,-5.14818 0.717659,-9.57231 2.179558,-13.29901 1.06852,-2.8323 2.78027,-5.66992 5.16716,-8.52883 1.73834,-2.086958 4.89073,-5.12156 9.40401,-9.119784 4.54519,-4.003544 7.47431,-7.187216 8.84052,-9.572303 1.36621,-2.411712 2.03603,-4.999112 2.03603,-7.831406 0,-5.121556 -1.98818,-9.620219 -5.95924,-13.501317 -3.97106,-3.875774 -8.8352,-5.813658 -14.59775,-5.813658 -5.581808,0 -10.22268,1.762198 -13.949203,5.270622 -3.747787,3.529724 -6.182515,9.02395 -7.346722,16.503978 L 70.666576,75.652204 c 1.217369,-9.971598 4.795039,-17.627311 10.775545,-22.919233 5.980511,-5.297244 13.874775,-7.959177 23.704069,-7.959177 10.40343,0 18.6964,2.83762 24.90018,8.52883 6.18252,5.691212 9.28175,12.580289 9.28175,20.65659 0,4.67435 -1.08979,8.976035 -3.27467,12.905046 -2.18488,3.950307 -6.45363,8.72581 -12.81157,14.36911 -4.26875,3.77994 -7.04903,6.56432 -8.36208,8.35314 -1.31837,1.78882 -2.28588,3.85448 -2.90785,6.19165 -0.61666,2.31056 -0.98878,6.09051 -1.08978,11.33451 z m 11.551688,15.49777 c -1.34496,-1.34694 -3.20024,-2.17746 -5.25222,-2.17746 -2.05198,0 -3.90726,0.83052 -5.252217,2.17746 -1.344946,1.34161 -2.174242,3.20497 -2.174242,5.25998 0,2.04968 0.829296,3.91304 2.174242,5.25997 1.344957,1.34161 3.200237,2.17746 5.252217,2.17746 2.05198,0 3.90726,-0.83585 5.25222,-2.17746 1.34494,-1.34693 2.17424,-3.21029 2.17424,-5.25997 0,-2.05501 -0.8293,-3.91837 -2.17424,-5.25998 z M 170.60218,39.295539 C 153.81423,22.482778 130.6205,12.079948 104.99735,12.079948 c -25.61784,0 -48.811576,10.40283 -65.60484,27.215591 -16.787949,16.818085 -27.175424,40.0461 -27.175424,65.701801 0,25.66102 10.387475,48.88904 27.175424,65.7018 16.793264,16.81808 39.987,27.21559 65.60484,27.21559 25.62315,0 48.81688,-10.39751 65.60483,-27.21559 16.79326,-16.81276 27.17543,-40.04078 27.17543,-65.7018 0,-25.655702 -10.38217,-48.883716 -27.17543,-65.701801 z"
+       id="path1611" />
+  </g>
+</svg>

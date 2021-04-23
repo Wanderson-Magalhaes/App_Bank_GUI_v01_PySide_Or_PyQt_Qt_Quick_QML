@@ -1,0 +1,3 @@
+{
+    "files": ["qml/main.qml","qml/pages/pageNoInternet.qml","main.py","main.qml","qml/pages/homePage.qml","mainWindow.py"]
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="smartphone_icon.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 210"
+   height="210mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-62"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-45"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-64"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="452.97784"
+     inkscape:cx="281.68563"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.127695"
+       d="m 55.426656,2.7478753 h 99.146694 c 3.89273,0 7.42852,1.5941836 9.98991,4.1545309 2.5614,2.5651794 4.1484,6.1061908 4.1484,10.0046838 v 176.18583 c 0,3.89849 -1.587,7.43951 -4.1484,10.00468 -2.56139,2.56518 -6.09718,4.15452 -9.98991,4.15452 H 55.426656 c -3.892739,0 -7.428524,-1.58934 -9.989918,-4.15452 -2.55657,-2.56517 -4.148397,-6.10619 -4.148397,-10.00468 V 16.90709 c 0,-3.898493 1.591827,-7.4395044 4.148397,-10.0046838 2.561394,-2.5603473 6.097179,-4.1545309 9.989918,-4.1545309 z M 98.594105,174.07871 h 12.811785 c 2.65305,0 4.82372,2.17387 4.82372,4.83084 v 6.69556 c 0,2.65697 -2.17067,4.83084 -4.82372,4.83084 H 98.594105 c -2.653045,0 -4.823719,-2.17387 -4.823719,-4.83084 v -6.69556 c 0,-2.65697 2.170674,-4.83084 4.823719,-4.83084 z M 98.261266,18.448131 h 13.477464 c 2.58552,0 4.6983,2.115911 4.6983,4.705245 v 0 c 0,2.584503 -2.11278,4.700414 -4.6983,4.700414 H 98.261266 c -2.58069,0 -4.698299,-2.115911 -4.698299,-4.700414 v 0 c 0,-2.589334 2.117609,-4.705245 4.698299,-4.705245 z M 154.57335,11.747746 H 55.426656 c -1.408524,0 -2.696457,0.579701 -3.637082,1.516885 -0.935801,0.942016 -1.514647,2.231852 -1.514647,3.642459 v 176.18583 c 0,1.41544 0.578846,2.70527 1.514647,3.64246 0.940625,0.93718 2.228558,1.52172 3.637082,1.52172 h 99.146694 c 1.41334,0 2.70128,-0.58454 3.63708,-1.52172 0.9358,-0.93719 1.51464,-2.22702 1.51464,-3.64246 V 16.90709 c 0,-1.410607 -0.57884,-2.700443 -1.51464,-3.642459 -0.9358,-0.937184 -2.22374,-1.516885 -3.63708,-1.516885 z"
+       id="path1546" />
+  </g>
+</svg>

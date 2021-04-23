@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="user_icon.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 210"
+   height="210mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-62"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-45"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-64"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-5"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-622"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-74"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-48"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-648"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-18"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-37"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-35"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-77"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="510.1207"
+     inkscape:cx="281.68563"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d="m 104.99713,27.976725 c -11.326447,0 -21.537684,5.38762 -28.877075,14.101758 -7.142196,8.473451 -11.5544,20.118981 -11.5544,32.924817 0,12.805828 4.412204,24.451676 11.5544,32.92513 7.339391,8.71414 17.550628,14.10175 28.877075,14.10175 11.33262,0 21.53737,-5.38761 28.87676,-14.10175 7.1422,-8.473454 11.56077,-20.119302 11.56077,-32.92513 0,-12.805836 -4.41857,-24.451366 -11.56077,-32.924817 -7.33939,-8.714138 -17.54414,-14.101758 -28.87676,-14.101758 z m 0,10.448473 c 8.12202,0 15.52302,3.974168 20.93359,10.386342 5.6016,6.652864 9.07108,15.910057 9.07108,26.19176 0,10.28169 -3.46948,19.539216 -9.07108,26.19207 -5.41057,6.41834 -12.81157,10.38634 -20.93359,10.38634 -8.11585,0 -15.52312,-3.968 -20.927531,-10.38634 -5.601603,-6.652854 -9.071083,-15.91038 -9.071083,-26.19207 0,-10.281703 3.46948,-19.538896 9.071083,-26.19176 C 89.47401,42.399366 96.88128,38.425198 104.99713,38.425198 Z M 84.272877,84.396501 c 0.955171,4.480494 2.569688,8.522691 4.6649,11.849123 3.937757,6.251716 9.601182,10.121256 16.059353,10.121256 6.46434,0 12.12733,-3.86954 16.06509,-10.121256 2.09521,-3.326432 3.70389,-7.368629 4.66522,-11.849123 h -10.72886 c -0.67786,2.376021 -1.61463,4.505231 -2.74235,6.294954 -2.02742,3.227689 -4.60927,5.220896 -7.2591,5.220896 -2.64366,0 -5.225827,-1.993207 -7.259414,-5.220896 -1.127717,-1.789723 -2.058123,-3.918933 -2.735981,-6.294954 z m 20.724253,47.409229 c -17.581265,0.30241 -36.629219,1.51212 -49.040241,4.83855 C 16.191061,147.30243 5.9613292,178.58552 5.9305201,178.6781 l 9.8660379,3.34517 c 0.02465,-0.074 8.522799,-26.09918 42.847244,-35.2947 11.560621,-3.09809 29.548523,-4.2338 46.353328,-4.5177 16.80481,0.2839 34.79876,1.41961 46.35938,4.5177 34.32446,9.19552 42.82258,35.22065 42.84725,35.2947 l 9.86572,-3.34517 c -0.0308,-0.0926 -10.26639,-31.37567 -50.02605,-42.03382 -12.41102,-3.32643 -31.45887,-4.53614 -49.0463,-4.83855 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.163133"
+       id="path1689" />
+  </g>
+</svg>

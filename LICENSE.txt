@@ -1,0 +1,4 @@
+ATTENTION:
+This project was made using the Qt Creator (Community Version), so commercial use of this project is not allowed!
+If you want to use it commercially, purchase a license from Qt Company: https://www.qt.io/pricing
+The purpose of this project is only for studies of Qt Creator and PySide2, the incorrect use of this project may result in judicial penalties with the Qt Company.
